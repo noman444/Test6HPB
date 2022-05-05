@@ -11289,10 +11289,10 @@ svg:not(:root) {
 .eVQSwo img {
     background-color: #000;
     background-size: cover;
-    height: 47vh;
+    height: 83vh;
     width: 100vw;
-    margin: 83px;
-    border: none
+    margin-top: 127px;
+    border: none;
 }
 
 @media (max-width:425px) {
@@ -11300,7 +11300,7 @@ svg:not(:root) {
         margin-top: 72px
     }
     .eVQSwo img {
-        height: 500vh;
+        height: 24vh;
         width: 100vw;
         background-size: cover;
         margin: 0;
