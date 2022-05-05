@@ -11289,7 +11289,7 @@ svg:not(:root) {
 .eVQSwo img {
     background-color: #000;
     background-size: cover;
-    height: 100vh;
+    height: 50vh;
     width: 100vw;
     margin: 0;
     border: none
@@ -11300,8 +11300,9 @@ svg:not(:root) {
         margin-top: 72px
     }
     .eVQSwo img {
-        height: 100vh;
+        height: 500vh;
         width: 100vw;
+        background-size: cover;
         margin: 0;
         border: none;
         padding: 0
